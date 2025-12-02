@@ -11,9 +11,9 @@
   "Punchline": "Don't fail at raid mechanics anymore",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/whielyy/ffxiv_bossmod/releases/latest/download/BossMod.zip",
+  "DownloadLinkInstall": "https://github.com/whielyy/ffxiv_bossmod/archive/refs/tags/release.zip",
   "DownloadLinkTesting": null,
-  "DownloadLinkUpdate": "https://github.com/whielyy/ffxiv_bossmod/releases/latest/download/BossMod.zip",
+  "DownloadLinkUpdate": "https://github.com/whielyy/ffxiv_bossmod/archive/refs/tags/release.zip",
   "LastUpdate": "1733180000",
   "IconUrl": "https://raw.githubusercontent.com/whielyy/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
   "ImageUrls": [
